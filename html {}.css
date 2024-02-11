@@ -1,5 +1,6 @@
 html {
     box-sizing: border-box;
+    
     text-align: justify;
 }
 
@@ -20,14 +21,18 @@ a{
 .center-pic{
     display:block;
     margin: auto;
-    background-size: auto;
+    width: 500px;
+    height: 350px;
+    background-repeat: no-repeat;
     background-image: url(image/image1.webp);
 }
 
 .center-pic1{
     display:block;
     margin: auto;
-    background-size: auto;
+    width: 500px;
+    height: 350px;
+    background-repeat: no-repeat;
     background-image: url(image/tsveta.jpg);
 
 }
@@ -35,7 +40,9 @@ a{
 .center-pic2{
     display:block;
     margin: auto;
-    background-size: auto;
+    width: 500px;
+    height: 350px;
+    background-repeat: no-repeat;
     background-image: url(image/glaz.jpg);
 
 }
