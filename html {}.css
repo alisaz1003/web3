@@ -20,22 +20,30 @@ a{
 .center-pic{
     display:block;
     margin: auto;
-    background-repeat: no-repeat ;
-    background-image:url(image/image1.webp);
+    width: 500px;
+    height: 350px;
+    background-repeat: no-repeat;
+    background-image: url(image/image1.webp);
 }
 
 .center-pic1{
     display:block;
     margin: auto;
-    background-repeat: no-repeat ;
-    background-image:url(image/tsveta.jpg);
+    width: 500px;
+    height: 350px;
+    background-repeat: no-repeat;
+    background-image: url(image/tsveta.jpg);
+
 }
 
 .center-pic2{
     display:block;
     margin: auto;
-    background-repeat: no-repeat ;
-    background-image:url(image/glaz.jpg);
+    width: 500px;
+    height: 350px;
+    background-repeat: no-repeat;
+    background-image: url(image/glaz.jpg);
+
 }
 
 body{
